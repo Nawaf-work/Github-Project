@@ -1,10 +1,10 @@
-## Created by Bal Nawaf
+## Created by Nawaf
 
 This repository contains projects did for Udacity Programming For Data Science Using Python Nanodegree.
 
 
 ## Project of sql :
-[Go]()
+[Go](https://github.com/Nawaf-work/Github-Project/tree/master/Sql%20Project)
 
 ### Overview:
 
@@ -18,7 +18,7 @@ For the presentation component, the student had to create four slides, and each 
 
 
 ## Project of python :
-[Go]()
+[Go](https://github.com/Nawaf-work/Github-Project/tree/master/Python%20Project)
 
 ### Overview:
 
@@ -27,8 +27,8 @@ In this project, you will make use of Python to explore data related to bike sha
 The developed CLI program allows the user to explore an US bikeshare system database and retrieve statistics information from the database. The user is able filter the information by city, month and weekday, in order to visualize statistics information related to a specific subset of data. The user is also able to chose to view raw data and to sort this data by columns, in ascending or descending order.
 
 
-## Project 3 :
-[Go]()
+## Project 3 of github-docs:
+[Go](https://github.com/Nawaf-work/Github-Project/tree/master/Github%20docs)
 
 ### Overview:
 
